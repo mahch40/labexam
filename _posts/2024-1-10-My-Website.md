@@ -1,6 +1,7 @@
 ---
 layout: post
-title: My Website
+title: "My Website"
+permalink: /My-Website/
 featured-img: "/assets/img/Web.png"
 # categories: Guides
 ---
