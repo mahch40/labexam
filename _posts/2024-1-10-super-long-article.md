@@ -2,7 +2,7 @@
 layout: post
 title: "My Life"
 permalink: /Life/
-featured-img: Life.png
+featured-img: "Life.png"
 # categories: [Sample, Guides]
 ---
 
