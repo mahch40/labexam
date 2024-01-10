@@ -2,7 +2,7 @@
 layout: post
 title: "My Website"
 permalink: /My-Website/
-featured-img: "/assets/img/Web.png"
+featured-img: "Web.png"
 # categories: Guides
 ---
 
