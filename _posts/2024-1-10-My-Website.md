@@ -11,7 +11,7 @@ featured-img: "/assets/img/Web.png"
 
 <img 
 
-src="/assets/img/Web.png">
+src="../assets/img/Web.png">
 
 </center>
 
