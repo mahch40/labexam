@@ -21,7 +21,7 @@ social:
 
 # THEME SETTINGS
 navigation: # Navigation links
-  - {name: 'Home', link: '/'}
+  - {name: 'Home', link: '/Home'}
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
 
@@ -34,7 +34,7 @@ email: ali@gmail.com # email for form submission
 
 twitter_username: ali # replace with your_twitter_username or comment to remove link from footer
 github_username:  ali # replace with your_github_username or comment to remove link from footer
-instagram_username:ali # replace with your_instagram_username or comment to remove link from footer
+instagram_username: ali # replace with your_instagram_username or comment to remove link from footer
 
 disqus:
   shortname: ali # to enable comments replace with your_disqus_shortname
