@@ -27,7 +27,7 @@ navigation: # Navigation links
 
 tagline: >
  Welcome
-hero_img: posts/labexam_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: posts/labexam_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/labexam_lg.jpg
 
 email: ali@gmail.com # email for form submission
 
